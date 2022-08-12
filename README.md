@@ -4,7 +4,7 @@ Philosophy has a huge field in the field of artificial intelligence.
 Mastering the philosophy of the job is the only way to do the job right.
 First of all, imagine that you have created an artificial intelligence and this artificial intelligence predicts what will happen in 10 seconds.
 Isn't this perfect?
-But if he can predict what will happen 10 seconds later 20 seconds later, then he will have predicted 10 seconds ahead and is useless.
+But if he can predict what will happen 10 seconds later, 20 seconds later, then he will have predicted 10 seconds before and it will be useless.
 
 Today we will focus on this situation. In artificial intelligence, you need to be able to use your machine at the highest level so that you can get full efficiency. Using the least common multiple method is the most logical method here.
 
